@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./collectaneagraec02dalz/collectaneagraec02dalz_0673.png"; bbox 0 0 2314 3906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 31 870 691 3643">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 31 870 691 3643">
+     <span class='ocr_line' id='line_1_1' title="bbox 31 870 691 3643; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 208 2960 466 3643; x_wconf 62' lang='lat'>{35355333‘3</span> <span class='ocrx_word' id='word_1_2' title='bbox 202 2147 691 3082; x_wconf 48' lang='grc' dir='ltr'>εξῑξνῐζ</span> <span class='ocrx_word' id='word_1_3' title='bbox 203 1798 655 2132; x_wconf 54' lang='lat'>3333</span> <span class='ocrx_word' id='word_1_4' title='bbox 31 1261 615 1929; x_wconf 54' lang='lat'>{55331332</span> <span class='ocrx_word' id='word_1_5' title='bbox 199 870 555 1318; x_wconf 88' lang='lat'>33</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 345 528 1048 2744">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 345 528 1048 2744">
+     <span class='ocr_line' id='line_1_2' title="bbox 345 528 1048 2744; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 387 2147 844 2744; x_wconf 47' lang='lat' dir='ltr'>Fi}</span> <span class='ocrx_word' id='word_1_7' title='bbox 597 2078 941 2333; x_wconf 56' lang='lat'>3133</span> <span class='ocrx_word' id='word_1_8' title='bbox 355 1067 1048 2129; x_wconf 56' lang='grc' dir='ltr'>ψὶξῗῑξ</span> <span class='ocrx_word' id='word_1_9' title='bbox 490 1066 847 1385; x_wconf 49' lang='grc' dir='ltr'>ἓξὲξ</span> <span class='ocrx_word' id='word_1_10' title='bbox 345 1066 742 1196; x_wconf 52' lang='grc' dir='ltr'>’ἐ</span> <span class='ocrx_word' id='word_1_11' title='bbox 483 528 886 1061; x_wconf 59' lang='lat' dir='ltr'>fii,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
